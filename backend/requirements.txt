@@ -1,0 +1,9 @@
+fastapi==0.115.*
+uvicorn[standard]==0.34.*
+mongoengine==0.29.*
+pymongo==4.10.*
+pydantic==2.10.*
+pydantic-settings==2.7.*
+boto3==1.36.*
+python-dotenv==1.0.*
+python-multipart==0.0.*
