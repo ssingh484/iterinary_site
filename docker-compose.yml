@@ -1,6 +1,6 @@
-services:
+lsservices:
   mongo:
-    image: mongo:7
+    image: mongo:4.4.6
     container_name: japan-mongo
     ports:
       - "27017:27017"
