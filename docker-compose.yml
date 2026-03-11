@@ -1,4 +1,4 @@
-lsservices:
+services:
   mongo:
     image: mongo:4.4.6
     container_name: japan-mongo
